@@ -70,9 +70,6 @@ public class CatalogoLivros {
         System.out.println(catalogoLivros.pesquisarPorIntervaloAnos(2020, 2021));
         System.out.println(catalogoLivros.pesquisarPorTitulo("Livro 1"));
 
-
-
-
     }
 
 }
